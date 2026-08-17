@@ -1,9 +1,0 @@
-export default plugin({
-    start() {
-        console.log("[Roblox Auto RPC] Plugin started");
-    },
-
-    stop() {
-        console.log("[Roblox Auto RPC] Plugin stopped");
-    },
-});
